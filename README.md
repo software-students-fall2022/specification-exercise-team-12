@@ -17,7 +17,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+- As an admin, I want my staff to be able to fill out an evaluation of the app to measure the efficiency and effectiveness of the app. 
+
+- As an admin/La, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
+
 
 ## Activity Diagrams
 
