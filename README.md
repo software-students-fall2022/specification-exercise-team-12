@@ -66,7 +66,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 - As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements.
 
-![UML Diagram for the newsletter](images/Newletter_Diagram.png)
+![UML Diagram for the newsletter](images/Newsletter_Diagram.png)
 
 
 ### Clickable Prototype
