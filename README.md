@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Charlie Xiang](https://github.com/xiang-charlie)
-[Jenny Shen](https://github.com/JennyShen10792)
-[Khalifa AlFalasi](https://github.com/Khalifa-AlFalasi)
-[Leah Durrett](https://github.com/howtofly-lab)
+[Charlie Xiang](https://github.com/xiang-charlie)  
+[Jenny Shen](https://github.com/JennyShen10792)  
+[Khalifa AlFalasi](https://github.com/Khalifa-AlFalasi)  
+[Leah Durrett](https://github.com/howtofly-lab)  
 
 ## Stakeholders
 
