@@ -23,6 +23,17 @@ Omar Qassab is a biology graduate student at NYU, and a graduate assistant at th
 - After checking in, students do not have an accurate estimated wait time, how many people are in line before them, when it is their turn with an available tutor, so they cannot leave for extended periods of time.
 
 
+Goals/Needs:
+
+LAs/Admin:
+- App should function as a hub for all necessary functions/info
+- Icons should be displayed on the homepage, similarly to the NYU Mobile app
+- App should be able to display ULC newsletter
+
+Students:
+- Having students fill out the current Google Form on their personal devices for increased efficiency and to allow IA’s to have an earlier idea of the traffic and set up sessions.
+- Students would like a better gauge of wait times (similar to the traffic tracker of restaurants on Google Maps showing different times of the day during different days of the week).
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
