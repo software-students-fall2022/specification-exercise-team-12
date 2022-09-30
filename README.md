@@ -42,7 +42,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-- As an admin, I want my staff to be able to fill out an evaluation of the app to measure the efficiency and effectiveness of the app. 
+- As an admin, I want to be able to add and remove LAs and IAs to grant them with necessary permissions. 
 
 - As an admin/La, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
 
