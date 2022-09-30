@@ -11,6 +11,17 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+Goals/Needs:
+
+LAs/Admin:
+- App should function as a hub for all necessary functions/info
+- Icons should be displayed on the homepage, similarly to the NYU Mobile app
+- App should be able to display ULC newsletter
+
+Students:
+- Having students fill out the current Google Form on their personal devices for increased efficiency and to allow IA’s to have an earlier idea of the traffic and set up sessions.
+- Students would like a better gauge of wait times (similar to the traffic tracker of restaurants on Google Maps showing different times of the day during different days of the week).
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
