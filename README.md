@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 [Charlie Xiang](https://github.com/xiang-charlie)
 [Jenny Shen](https://github.com/JennyShen10792)
 [Khalifa AlFalasi](https://github.com/Khalifa-AlFalasi)
-[Leah ]
+[Leah Durrett](https://github.com/howtofly-lab)
 
 ## Stakeholders
 
@@ -54,7 +54,6 @@ See instructions. Delete this line and place your Product Vision Statement here.
 - As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
 
 - As admin/La/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
-
 
 
 ## Activity Diagrams
