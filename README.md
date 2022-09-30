@@ -5,7 +5,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Charlie Xiang](https://github.com/xiang-charlie)
+[Jenny Shen](https://github.com/JennyShen10792)
+[Khalifa AlFalasi](https://github.com/Khalifa-AlFalasi)
+[Leah ]
 
 ## Stakeholders
 
@@ -46,4 +49,11 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### UML Activity Diagrams
+
+- As a student, I want to know how busy each location is in real time so that I could better plan my schedule.
+
+![UML Diagram for the real-time updating graph](images/Graph_UML_Diagram.png)
+
+
+### Clickable Prototype
