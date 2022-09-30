@@ -55,6 +55,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 - As admin/La/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
 
+- As a student, I want to be able to view the schedules of the ULC in order to book a time.
+
+- As a student, I want to be able to book an appointment in order to talk to a Learning Assistant.
+
+- As an LA, I want to be able to communicate with IA’s and other LA’s in order to coordinate appointments.
+
+- As an LA, I want to be able to access old worksheets for group sessions in order to recycle problem sets.
+
+- As an admin, I want to be able to monitor how much students are using the app to measure the effectiveness of the ULC.
 
 ## Activity Diagrams
 
