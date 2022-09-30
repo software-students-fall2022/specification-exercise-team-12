@@ -21,6 +21,13 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 - As an admin/La, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
 
+- As a student, I want to know how busy each location is in real time so that I could better plan my schedule.
+
+- As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
+
+- As admin/La/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
+
+
 
 ## Activity Diagrams
 
