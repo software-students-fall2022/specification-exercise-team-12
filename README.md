@@ -64,5 +64,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ![UML Diagram for the real-time updating graph](images/Graph_UML_Diagram.png)
 
+- As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements.
+
+![UML Diagram for the newsletter](images/Newletter_Diagram.png)
+
 
 ### Clickable Prototype
