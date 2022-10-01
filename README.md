@@ -41,7 +41,7 @@ Omar Qassab is a biology graduate student at NYU, and a graduate assistant at th
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To assist institutions in organzing their tutoring schedules efficiently.
 
 ## User Requirements
 
