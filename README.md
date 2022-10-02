@@ -47,17 +47,17 @@ To assist institutions in organizing their tutoring schedules efficiently.
 
 - As an admin, I want to be able to add and remove LAs and IAs to grant them with necessary permissions. 
 
-- As an admin/La, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
+- As an admin/LA, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
 
 - As a student, I want to know how busy each location is in real time so that I could better plan my schedule.
 
-- As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
+- As an LA, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
 
-- As admin/La/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
+- As an admin, I want to be able to edit the newsletter to keep the LA's up to date with any updates and announcements.
 
-- As a student, I want to be able to view the schedules of the ULC in order to book a time.
+- As admin/LA/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
 
-- As a student, I want to be able to book an appointment in order to talk to a Learning Assistant.
+- As a student, I want to be able to view the schedules of the ULC in order to have an idea of LA's schedules.
 
 - As an LA, I want to be able to communicate with IA’s and other LA’s in order to coordinate appointments.
 
