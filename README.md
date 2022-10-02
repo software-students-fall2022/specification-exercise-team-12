@@ -41,20 +41,29 @@ Omar Qassab is a biology graduate student at NYU, and a graduate assistant at th
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To assist institutions in organizing their tutoring schedules efficiently.
 
 ## User Requirements
 
 - As an admin, I want to be able to add and remove LAs and IAs to grant them with necessary permissions. 
 
-- As an admin/La, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
+- As an admin/LA, I want the app to serve as a hub to all the necessary functions and data to increase the efficiency of the organization’s work. 
 
 - As a student, I want to know how busy each location is in real time so that I could better plan my schedule.
 
-- As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
+- As an LA, I want to be able to view the newsletter to stay up to date with any updates and announcements. 
 
-- As admin/La/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
+- As an admin, I want to be able to edit the newsletter to keep the LA's up to date with any updates and announcements.
 
+- As an admin/LA/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
+
+- As a student, I want to be able to view the schedules of the ULC in order to have an idea of LA's schedules.
+
+- As an LA, I want to be able to communicate with IA’s and other LA’s in order to coordinate appointments.
+
+- As an LA, I want to be able to access old worksheets for group sessions in order to recycle problem sets.
+
+- As an admin, I want to be able to monitor how much students are using the app to measure the effectiveness of the ULC.
 
 ## Activity Diagrams
 
@@ -63,6 +72,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 - As a student, I want to know how busy each location is in real time so that I could better plan my schedule.
 
 ![UML Diagram for the real-time updating graph](images/Graph_UML_Diagram.png)
+
+- As a student, I want to be able to view the newsletter to stay up to date with any updates and announcements.
+
+![UML Diagram for the newsletter](images/Newsletter_Diagram.png)
 
 
 ### Clickable Prototype
