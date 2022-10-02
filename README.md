@@ -55,7 +55,7 @@ To assist institutions in organizing their tutoring schedules efficiently.
 
 - As an admin, I want to be able to edit the newsletter to keep the LA's up to date with any updates and announcements.
 
-- As admin/LA/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
+- As an admin/LA/student, I want the app to display icons in the homepage representing the different functions to increase user friendliness.
 
 - As a student, I want to be able to view the schedules of the ULC in order to have an idea of LA's schedules.
 
