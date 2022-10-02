@@ -41,7 +41,7 @@ Omar Qassab is a biology graduate student at NYU, and a graduate assistant at th
 
 ## Product Vision Statement
 
-To assist institutions in organzing their tutoring schedules efficiently.
+To assist institutions in organizing their tutoring schedules efficiently.
 
 ## User Requirements
 
